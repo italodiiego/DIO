@@ -1,3 +1,3 @@
-# Desafio-git-github-DIO
+# DIO
 
- Repositório criado para o desafio de projeto de Git/Github da DIO
+ Repositório criado para adicionar os projetos da Digital Innovation One (DIO)
