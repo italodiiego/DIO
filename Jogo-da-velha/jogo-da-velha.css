@@ -4,7 +4,7 @@ body{
     align-items: center;
     text-align: center;
     background: linear-gradient(
-        rgb(50, 255, 169) 10%,
+        rgb(24, 255, 139) 10%,
         rgb(0, 255, 221) 90%  
     );
 }
